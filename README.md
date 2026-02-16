@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm Sindhu</p>
-<img src="https://komarev.com/ghpvc/?username=Sindhuu-B&style=for-the-badge"/>
 <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Pixel%20Cat.gif" />
 
 <h1>Tech Stack:</h1>
